@@ -1,0 +1,4559 @@
+fileFormatVersion: 2
+guid: 3c41dbfb0304bdd40bbc9079f5661dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7583915235154599175
+    second: row arrow_0
+  - first:
+      213: 8458685077953309839
+    second: row arrow_1
+  - first:
+      213: -1894967925293501006
+    second: row arrow_2
+  - first:
+      213: 8816973281481303040
+    second: row arrow_3
+  - first:
+      213: 2130025806130579059
+    second: row arrow_4
+  - first:
+      213: 5072584695756652857
+    second: row arrow_5
+  - first:
+      213: -6367731211386590056
+    second: row arrow_6
+  - first:
+      213: 6880196833612501398
+    second: row arrow_7
+  - first:
+      213: -3416329259699814358
+    second: row arrow_8
+  - first:
+      213: -6923558674639534550
+    second: row arrow_9
+  - first:
+      213: -6776152704751450690
+    second: row arrow_10
+  - first:
+      213: -2234387543143216510
+    second: row arrow_11
+  - first:
+      213: 1955933717371615482
+    second: row arrow_12
+  - first:
+      213: -1081809988629836682
+    second: row arrow_13
+  - first:
+      213: 8619758320371445179
+    second: row arrow_14
+  - first:
+      213: -2821088134308012291
+    second: row arrow_15
+  - first:
+      213: 7088717547092505948
+    second: row arrow_16
+  - first:
+      213: -541246610079301255
+    second: row arrow_17
+  - first:
+      213: 7509791810798538268
+    second: row arrow_18
+  - first:
+      213: -7408206584017564893
+    second: row arrow_19
+  - first:
+      213: 8095814600768136155
+    second: row arrow_20
+  - first:
+      213: 2337944994786187248
+    second: row arrow_21
+  - first:
+      213: -7574050694753595048
+    second: row arrow_22
+  - first:
+      213: -8104261507049370587
+    second: row arrow_23
+  - first:
+      213: 7394169840917608259
+    second: row arrow_24
+  - first:
+      213: 5872122555542490687
+    second: row arrow_25
+  - first:
+      213: 50576608525808434
+    second: row arrow_26
+  - first:
+      213: -1584412695366262225
+    second: row arrow_27
+  - first:
+      213: -1284177080328440377
+    second: row arrow_28
+  - first:
+      213: 4885282794740356726
+    second: row arrow_29
+  - first:
+      213: -4364145049080053565
+    second: row arrow_30
+  - first:
+      213: 2681485566474460756
+    second: row arrow_31
+  - first:
+      213: 5037800296585644801
+    second: row arrow_32
+  - first:
+      213: 7662512565815628358
+    second: row arrow_33
+  - first:
+      213: 7351067499848582161
+    second: row arrow_34
+  - first:
+      213: -2362008481987723709
+    second: row arrow_35
+  - first:
+      213: 5295064912248052099
+    second: row arrow_36
+  - first:
+      213: -384302409252070187
+    second: row arrow_37
+  - first:
+      213: -5476606898595509416
+    second: row arrow_38
+  - first:
+      213: -5255184536642511948
+    second: row arrow_39
+  - first:
+      213: 8704665646808104427
+    second: row arrow_40
+  - first:
+      213: 6056084593747229985
+    second: row arrow_41
+  - first:
+      213: 9065737474712132655
+    second: row arrow_42
+  - first:
+      213: -4659066686087673460
+    second: row arrow_43
+  - first:
+      213: -3828772208547283014
+    second: row arrow_44
+  - first:
+      213: 3978936805066397049
+    second: row arrow_45
+  - first:
+      213: 5919137485441001353
+    second: row arrow_46
+  - first:
+      213: -7183901014936626188
+    second: row arrow_47
+  - first:
+      213: 4379718282845219489
+    second: row arrow_48
+  - first:
+      213: -2102296914140490634
+    second: row arrow_49
+  - first:
+      213: 8770016712480503848
+    second: row arrow_50
+  - first:
+      213: 6806904144970501979
+    second: row arrow_51
+  - first:
+      213: -1287182772317453025
+    second: row arrow_52
+  - first:
+      213: 8117435195179060240
+    second: row arrow_53
+  - first:
+      213: -6012667168399570260
+    second: row arrow_54
+  - first:
+      213: -3999821072522771305
+    second: row arrow_55
+  - first:
+      213: 6600035385742450417
+    second: row arrow_56
+  - first:
+      213: 4905107469803249791
+    second: row arrow_57
+  - first:
+      213: 770245331549962101
+    second: row arrow_58
+  - first:
+      213: -8479043276215024922
+    second: row arrow_59
+  - first:
+      213: -6128014862959769004
+    second: row arrow_60
+  - first:
+      213: -6561172231204503638
+    second: row arrow_61
+  - first:
+      213: 3279699464993166678
+    second: row arrow_62
+  - first:
+      213: 7792800516155182822
+    second: row arrow_63
+  - first:
+      213: -1938615775902080343
+    second: row arrow_64
+  - first:
+      213: 5886964053020879897
+    second: row arrow_65
+  - first:
+      213: -7392040512884060817
+    second: row arrow_66
+  - first:
+      213: 8086201831999437589
+    second: row arrow_67
+  - first:
+      213: 1740756316399583923
+    second: row arrow_68
+  - first:
+      213: -1351841858001565167
+    second: row arrow_69
+  - first:
+      213: 7506150482723885295
+    second: row arrow_70
+  - first:
+      213: -7590749060693731570
+    second: row arrow_71
+  - first:
+      213: -6298463446807625336
+    second: row arrow_72
+  - first:
+      213: 8880594612016298957
+    second: row arrow_73
+  - first:
+      213: -1481361488227324387
+    second: row arrow_74
+  - first:
+      213: -9146578165632733969
+    second: row arrow_75
+  - first:
+      213: -2656564539691289207
+    second: row arrow_76
+  - first:
+      213: 4778166848719577187
+    second: row arrow_77
+  - first:
+      213: -6928845158820602413
+    second: row arrow_78
+  - first:
+      213: 8189855501208101071
+    second: row arrow_79
+  - first:
+      213: -5192182298114917958
+    second: row arrow_80
+  - first:
+      213: 6116689036658864959
+    second: row arrow_81
+  - first:
+      213: -1734156967420322042
+    second: row arrow_82
+  - first:
+      213: 1612274835792803968
+    second: row arrow_83
+  - first:
+      213: 1203004794986820402
+    second: row arrow_84
+  - first:
+      213: 164415734380126666
+    second: row arrow_85
+  - first:
+      213: -866059328320761516
+    second: row arrow_86
+  - first:
+      213: -880631121505042118
+    second: row arrow_87
+  - first:
+      213: 1898100032024946765
+    second: row arrow_88
+  - first:
+      213: -5477377135228379938
+    second: row arrow_89
+  - first:
+      213: 2826276786219042813
+    second: row arrow_90
+  - first:
+      213: 4048141398460940858
+    second: row arrow_91
+  - first:
+      213: -2736903074550925684
+    second: row arrow_92
+  - first:
+      213: 3385158714332851352
+    second: row arrow_93
+  - first:
+      213: -9099781826091234857
+    second: row arrow_94
+  - first:
+      213: 7885037566006160612
+    second: row arrow_95
+  - first:
+      213: -2068300367869891145
+    second: row arrow_96
+  - first:
+      213: 4536929637228588477
+    second: row arrow_97
+  - first:
+      213: 297683258231738974
+    second: row arrow_98
+  - first:
+      213: 5741597055738600413
+    second: row arrow_99
+  - first:
+      213: 8143000134226599624
+    second: row arrow_100
+  - first:
+      213: 58599334741396053
+    second: row arrow_101
+  - first:
+      213: -1305548241522642688
+    second: row arrow_102
+  - first:
+      213: -7317902326801610557
+    second: row arrow_103
+  - first:
+      213: -4955986400231210117
+    second: row arrow_104
+  - first:
+      213: -2120393894551712286
+    second: row arrow_105
+  - first:
+      213: -5090122720309613330
+    second: row arrow_106
+  - first:
+      213: 2761459068661051721
+    second: row arrow_107
+  - first:
+      213: -2732673719123376792
+    second: row arrow_108
+  - first:
+      213: 285540576187112319
+    second: row arrow_109
+  - first:
+      213: -5594304340555136882
+    second: row arrow_110
+  - first:
+      213: -4073107819222367443
+    second: row arrow_111
+  - first:
+      213: -6653277650317670097
+    second: row arrow_112
+  - first:
+      213: -5787898852808466653
+    second: row arrow_113
+  - first:
+      213: -4484537613392444791
+    second: row arrow_114
+  - first:
+      213: -732148966476023513
+    second: row arrow_115
+  - first:
+      213: -5344239015075752758
+    second: row arrow_116
+  - first:
+      213: -7517380287600429028
+    second: row arrow_117
+  - first:
+      213: 7275910429925423194
+    second: row arrow_118
+  - first:
+      213: -5932013857845697168
+    second: row arrow_119
+  - first:
+      213: -1832232538104488585
+    second: row arrow_120
+  - first:
+      213: -722425081569720252
+    second: row arrow_121
+  - first:
+      213: 4356920748861582330
+    second: row arrow_122
+  - first:
+      213: 581892949267901683
+    second: row arrow_123
+  - first:
+      213: -4659505389445207415
+    second: row arrow_124
+  - first:
+      213: 1252605716956717557
+    second: row arrow_125
+  - first:
+      213: -4773174136229703392
+    second: row arrow_126
+  - first:
+      213: -8272356302101808671
+    second: row arrow_127
+  - first:
+      213: -3379696391243876761
+    second: row arrow_128
+  - first:
+      213: 6382343527630591046
+    second: row arrow_129
+  - first:
+      213: -6330517856880343432
+    second: row arrow_130
+  - first:
+      213: -6695124181749572190
+    second: row arrow_131
+  - first:
+      213: -317046824757967719
+    second: row arrow_132
+  - first:
+      213: -7730370545848650300
+    second: row arrow_133
+  - first:
+      213: 8874382225591166095
+    second: row arrow_134
+  - first:
+      213: -7684444357926131723
+    second: row arrow_135
+  - first:
+      213: 828838787140110786
+    second: row arrow_136
+  - first:
+      213: 9212203786964224177
+    second: row arrow_137
+  - first:
+      213: 5908817289371329864
+    second: row arrow_138
+  - first:
+      213: -265531012001513865
+    second: row arrow_139
+  - first:
+      213: 4766375183311563069
+    second: row arrow_140
+  - first:
+      213: 4760094491094997772
+    second: row arrow_141
+  - first:
+      213: -799464408695704732
+    second: row arrow_142
+  - first:
+      213: -4914193887543034455
+    second: row arrow_143
+  - first:
+      213: -1303943017069948967
+    second: row arrow_144
+  - first:
+      213: 1665463619962102760
+    second: row arrow_145
+  - first:
+      213: 6639315610744838386
+    second: row arrow_146
+  - first:
+      213: -122651172155740878
+    second: row arrow_147
+  - first:
+      213: -2476936922227404690
+    second: row arrow_148
+  - first:
+      213: -7960676338190320227
+    second: row arrow_149
+  - first:
+      213: 5582116695206628095
+    second: row arrow_150
+  - first:
+      213: 9087332531150484921
+    second: row arrow_151
+  - first:
+      213: 2498987814932444678
+    second: row arrow_152
+  - first:
+      213: -2756653707648889340
+    second: row arrow_153
+  - first:
+      213: -8476563724746987702
+    second: row arrow_154
+  - first:
+      213: -585299624699929080
+    second: row arrow_155
+  - first:
+      213: 1641970851236277683
+    second: row arrow_156
+  - first:
+      213: 9081765259838361514
+    second: row arrow_157
+  - first:
+      213: 7497182912396208839
+    second: row arrow_158
+  - first:
+      213: -8541281716818498889
+    second: row arrow_159
+  - first:
+      213: -8261411029759070262
+    second: row arrow_160
+  - first:
+      213: 7006216580358567040
+    second: row arrow_161
+  - first:
+      213: 8375524896550179863
+    second: row arrow_162
+  - first:
+      213: -386767695057932
+    second: row arrow_163
+  - first:
+      213: -3425810396027177276
+    second: row arrow_164
+  - first:
+      213: -3982795766476387729
+    second: bow arrow_0
+  - first:
+      213: 5216175327408622837
+    second: bow arrow_1
+  - first:
+      213: -960423696789427838
+    second: bow arrow_2
+  - first:
+      213: -6278788359091489608
+    second: bow arrow_3
+  - first:
+      213: -1933561721333049369
+    second: bow arrow_4
+  - first:
+      213: 3620842251769258536
+    second: bow arrow_5
+  - first:
+      213: -5659338544714801100
+    second: bow arrow_6
+  - first:
+      213: 5383235273710781939
+    second: bow arrow_7
+  - first:
+      213: -2371820935795982264
+    second: bow arrow_8
+  - first:
+      213: -6436995192823134178
+    second: bow arrow_9
+  - first:
+      213: 7707119937002321476
+    second: bow arrow_10
+  - first:
+      213: 7375756307839734855
+    second: bow arrow_11
+  - first:
+      213: -3649217068989735764
+    second: bow arrow_12
+  - first:
+      213: 7456972898893742487
+    second: bow arrow_13
+  - first:
+      213: -3534130627655103538
+    second: bow arrow_14
+  - first:
+      213: -2476117500096412377
+    second: bow arrow_15
+  - first:
+      213: -9081990597185857898
+    second: bow arrow_16
+  - first:
+      213: 1439242136384033107
+    second: bow arrow_17
+  - first:
+      213: -1075285958199465304
+    second: bow arrow_18
+  - first:
+      213: 6793143751301617913
+    second: bow arrow_19
+  - first:
+      213: -76731536314924162
+    second: bow arrow_20
+  - first:
+      213: 1254499549095993466
+    second: bow arrow_21
+  - first:
+      213: 9203570015834957321
+    second: bow arrow_22
+  - first:
+      213: -4201606513139066027
+    second: bow arrow_23
+  - first:
+      213: -4379468758281624990
+    second: bow arrow_24
+  - first:
+      213: -1858965727788334758
+    second: bow arrow_25
+  - first:
+      213: -3693345255182353262
+    second: bow arrow_26
+  - first:
+      213: 4134352545532819901
+    second: bow arrow_27
+  - first:
+      213: -5235282199214288779
+    second: bow arrow_28
+  - first:
+      213: -6359581305214737772
+    second: bow arrow_29
+  - first:
+      213: -170102716549125937
+    second: bow arrow_30
+  - first:
+      213: 5587769256977480564
+    second: bow arrow_31
+  - first:
+      213: 7101878468990891322
+    second: bow arrow_32
+  - first:
+      213: -2139932378205624275
+    second: bow arrow_33
+  - first:
+      213: -6340792428521015806
+    second: bow arrow_34
+  - first:
+      213: 4046433782940888860
+    second: bow arrow_35
+  - first:
+      213: -2005426238165780716
+    second: bow arrow_36
+  - first:
+      213: 2661019211415761681
+    second: bow arrow_37
+  - first:
+      213: 4486556519051581515
+    second: bow arrow_38
+  - first:
+      213: 6816355755458021025
+    second: bow arrow_39
+  - first:
+      213: -882580916629036700
+    second: bow arrow_40
+  - first:
+      213: -470020614528676742
+    second: bow arrow_41
+  - first:
+      213: -1558077249778367580
+    second: bow arrow_42
+  - first:
+      213: 9084691772056006009
+    second: bow arrow_43
+  - first:
+      213: 7250523504201574154
+    second: bow arrow_44
+  - first:
+      213: 3125977725831022554
+    second: bow arrow_45
+  - first:
+      213: -2138751324525257112
+    second: bow arrow_46
+  - first:
+      213: -6234606193927634684
+    second: bow arrow_47
+  - first:
+      213: -4558023121107061348
+    second: bow arrow_48
+  - first:
+      213: -1406995345370116175
+    second: bow arrow_49
+  - first:
+      213: -4190931813075682862
+    second: bow arrow_50
+  - first:
+      213: -3723188747130019566
+    second: bow arrow_51
+  - first:
+      213: 4527770561068848342
+    second: bow arrow_52
+  - first:
+      213: 6682051628724913968
+    second: bow arrow_53
+  - first:
+      213: -8615358769132970726
+    second: bow arrow_54
+  - first:
+      213: -7032473683522391174
+    second: bow arrow_55
+  - first:
+      213: -6366832039867634476
+    second: bow arrow_56
+  - first:
+      213: -5399558621901474602
+    second: bow arrow_57
+  - first:
+      213: -4774562448059349948
+    second: bow arrow_58
+  - first:
+      213: 7244319616623321449
+    second: bow arrow_59
+  - first:
+      213: -6503357020020410255
+    second: bow arrow_60
+  - first:
+      213: -5796500094103139111
+    second: bow arrow_61
+  - first:
+      213: 506653209695040099
+    second: bow arrow_62
+  - first:
+      213: -2953103848218690339
+    second: bow arrow_63
+  - first:
+      213: 8800128191253617195
+    second: bow arrow_64
+  - first:
+      213: -6774821874966275232
+    second: bow arrow_65
+  - first:
+      213: -123789375079066863
+    second: bow arrow_66
+  - first:
+      213: 1170801921433399374
+    second: bow arrow_67
+  - first:
+      213: 5056362533594280994
+    second: bow arrow_68
+  - first:
+      213: 2258461079325759439
+    second: bow arrow_69
+  - first:
+      213: -239097771492680060
+    second: bow arrow_70
+  - first:
+      213: -8623677582834300372
+    second: bow arrow_71
+  - first:
+      213: -8230731540934457706
+    second: bow arrow_72
+  - first:
+      213: 6736826968374044984
+    second: bow arrow_73
+  - first:
+      213: -720508394485505442
+    second: bow arrow_74
+  - first:
+      213: -8763395511934894857
+    second: bow arrow_75
+  - first:
+      213: 5580647929032079112
+    second: bow arrow_76
+  - first:
+      213: -7644139694510757042
+    second: bow arrow_77
+  - first:
+      213: 555622670696423841
+    second: bow arrow_78
+  - first:
+      213: -482311418745865815
+    second: bow arrow_79
+  - first:
+      213: 5598458310952959727
+    second: bow arrow_80
+  - first:
+      213: -1893436037930173722
+    second: bow arrow_81
+  - first:
+      213: -3599854772850710925
+    second: bow arrow_82
+  - first:
+      213: -3915930798834303085
+    second: bow arrow_83
+  - first:
+      213: -4545180984390813787
+    second: bow arrow_84
+  - first:
+      213: -1906200668019309940
+    second: bow arrow_85
+  - first:
+      213: 5491892988375545984
+    second: bow arrow_86
+  - first:
+      213: -6863995772375963393
+    second: bow arrow_87
+  - first:
+      213: -4962261401916081046
+    second: bow arrow_88
+  - first:
+      213: 7389233910582658465
+    second: bow arrow_89
+  - first:
+      213: 8074007052144055227
+    second: bow arrow_90
+  - first:
+      213: 854823256686076382
+    second: bow arrow_91
+  - first:
+      213: 7027609685012909448
+    second: bow arrow_92
+  - first:
+      213: -8413160603637109381
+    second: bow arrow_93
+  - first:
+      213: 8467653122896194568
+    second: bow arrow_94
+  - first:
+      213: -4439220659789933292
+    second: bow arrow_95
+  - first:
+      213: 243677219903835345
+    second: bow arrow_96
+  - first:
+      213: 8760608802501026174
+    second: bow arrow_97
+  - first:
+      213: 4637686928118526677
+    second: bow arrow_98
+  - first:
+      213: 298664146533104478
+    second: bow arrow_99
+  - first:
+      213: -16186502744850781
+    second: bow arrow_100
+  - first:
+      213: 6404251250665914810
+    second: bow arrow_101
+  - first:
+      213: -2976110982880002127
+    second: bow arrow_102
+  - first:
+      213: 8641562550102495805
+    second: bow arrow_103
+  - first:
+      213: 7284071804276998246
+    second: bow arrow_104
+  - first:
+      213: 997396743331864815
+    second: bow arrow_105
+  - first:
+      213: -7876860407273153282
+    second: bow arrow_106
+  - first:
+      213: -41664803492468804
+    second: bow arrow_107
+  - first:
+      213: -5654541443746477773
+    second: bow arrow_108
+  - first:
+      213: -8205696011169486162
+    second: bow arrow_109
+  - first:
+      213: -116027478187130495
+    second: bow arrow_110
+  - first:
+      213: -4877941846868794222
+    second: bow arrow_111
+  - first:
+      213: 2872556640151206585
+    second: bow arrow_112
+  - first:
+      213: 5541317190835710044
+    second: bow arrow_113
+  - first:
+      213: -6329679050064989483
+    second: bow arrow_114
+  - first:
+      213: 2368177041545679914
+    second: bow arrow_115
+  - first:
+      213: 7111149095588904678
+    second: bow arrow_116
+  - first:
+      213: 7636730220772042244
+    second: bow arrow_117
+  - first:
+      213: -8432911014697410525
+    second: bow arrow_118
+  - first:
+      213: 4020753131960750995
+    second: bow arrow_119
+  - first:
+      213: 824575581123043130
+    second: bow arrow_120
+  - first:
+      213: 8706862660585212844
+    second: bow arrow_121
+  - first:
+      213: 1905689678950361419
+    second: bow arrow_122
+  - first:
+      213: -6171916889186920067
+    second: bow arrow_123
+  - first:
+      213: 8957582436827624047
+    second: bow arrow_124
+  - first:
+      213: 6099695485259180270
+    second: bow arrow_125
+  - first:
+      213: -2427364521073858074
+    second: bow arrow_126
+  - first:
+      213: -6701672946497805229
+    second: bow arrow_127
+  - first:
+      213: 6202203597024314904
+    second: bow arrow_128
+  - first:
+      213: -2937838654703028149
+    second: bow arrow_129
+  - first:
+      213: -3496784761506581919
+    second: bow arrow_130
+  - first:
+      213: -2821704204916269479
+    second: bow arrow_131
+  - first:
+      213: -5020212587131180965
+    second: bow arrow_132
+  - first:
+      213: 5189706637152922850
+    second: bow arrow_133
+  - first:
+      213: 8906607465586424209
+    second: bow arrow_134
+  - first:
+      213: 5254071584364968842
+    second: bow arrow_135
+  - first:
+      213: -7242017358488008952
+    second: bow arrow_136
+  - first:
+      213: 3087232624146315098
+    second: bow arrow_137
+  - first:
+      213: 6353252057874121715
+    second: bow arrow_138
+  - first:
+      213: 1591968650445399989
+    second: bow arrow_139
+  - first:
+      213: -6632370369699800096
+    second: bow arrow_140
+  - first:
+      213: -5974037961532014304
+    second: bow arrow_141
+  - first:
+      213: 8328220381809961834
+    second: bow arrow_142
+  - first:
+      213: -3324124772343863364
+    second: bow arrow_143
+  - first:
+      213: 5412768856944317324
+    second: bow arrow_144
+  - first:
+      213: -4688057516007538485
+    second: bow arrow_145
+  - first:
+      213: 513236991837837147
+    second: bow arrow_146
+  - first:
+      213: 3090445600066343828
+    second: bow arrow_147
+  - first:
+      213: 3475310640702472229
+    second: bow arrow_148
+  - first:
+      213: 5613054466967211250
+    second: bow arrow_149
+  - first:
+      213: -274077144453597703
+    second: bow arrow_150
+  - first:
+      213: 6892581186901337407
+    second: bow arrow_151
+  - first:
+      213: -2426977049098656684
+    second: bow arrow_152
+  - first:
+      213: 2510795961990263466
+    second: bow arrow_153
+  - first:
+      213: -1185023113531059736
+    second: bow arrow_154
+  - first:
+      213: 8013883371372992544
+    second: bow arrow_155
+  - first:
+      213: -4974343238185539817
+    second: bow arrow_156
+  - first:
+      213: 8428878188348709733
+    second: bow arrow_157
+  - first:
+      213: 5895397316184754579
+    second: bow arrow_158
+  - first:
+      213: 6059639797214332765
+    second: bow arrow_159
+  - first:
+      213: 1294678225039480319
+    second: bow arrow_160
+  - first:
+      213: -8387664772130637523
+    second: bow arrow_161
+  - first:
+      213: -2955857422219251337
+    second: bow arrow_162
+  - first:
+      213: -2876856693365449578
+    second: bow arrow_163
+  - first:
+      213: 1166986054642151412
+    second: bow arrow_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bow arrow_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ace362a544ab8c0800000000000000
+      internalID: -3982795766476387729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1282
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0954e2d3936840800000000000000
+      internalID: 5216175327408622837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1282
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289affe7cb3eba2f0800000000000000
+      internalID: -960423696789427838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b47e7cf0434dd8a0800000000000000
+      internalID: -6278788359091489608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e796a0ebdb9a25e0800000000000000
+      internalID: -1933561721333049369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ae6c08d0df3230800000000000000
+      internalID: 3620842251769258536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430299af39df571b0800000000000000
+      internalID: -5659338544714801100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f542e7b5f715ba40800000000000000
+      internalID: 5383235273710781939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cb03ec69951fd0800000000000000
+      internalID: -2371820935795982264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1841ee0af23ba6a0800000000000000
+      internalID: -6436995192823134178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ba56afb035fa60800000000000000
+      internalID: 7707119937002321476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74452a69843fb5660800000000000000
+      internalID: 7375756307839734855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac139ef8606b5dc0800000000000000
+      internalID: -3649217068989735764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c642c75d7c7760800000000000000
+      internalID: 7456972898893742487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb0ac43bee34fec0800000000000000
+      internalID: -3534130627655103538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72500a0b04013add0800000000000000
+      internalID: -2476117500096412377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1154
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6969c499ba946f180800000000000000
+      internalID: -9081990597185857898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d1fcf81739f310800000000000000
+      internalID: 1439242136384033107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2e8d3e11d311f0800000000000000
+      internalID: -1075285958199465304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85f7c0048164e50800000000000000
+      internalID: 6793143751301617913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7301e203156feef0800000000000000
+      internalID: -76731536314924162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7021ca71b0e86110800000000000000
+      internalID: 1254499549095993466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1090
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066743ba26a9bf70800000000000000
+      internalID: 9203570015834957321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1090
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd06a2325e0b5c0800000000000000
+      internalID: -4201606513139066027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e3b52e500933c0800000000000000
+      internalID: -4379468758281624990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510d811580a336e0800000000000000
+      internalID: -1858965727788334758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c3bfffe0a9ebcc0800000000000000
+      internalID: -3693345255182353262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1090
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db937b44cbb206930800000000000000
+      internalID: 4134352545532819901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1025
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57018e8d39a8857b0800000000000000
+      internalID: -5235282199214288779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e5765f7a3eb7a0800000000000000
+      internalID: -6359581305214737772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a2c40b7ca3adf0800000000000000
+      internalID: -170102716549125937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbdf0b88ebb8d40800000000000000
+      internalID: 5587769256977480564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35723617d0fe8260800000000000000
+      internalID: 7101878468990891322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2862b107de6d42e0800000000000000
+      internalID: -2139932378205624275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b48791eaf008a0800000000000000
+      internalID: -6340792428521015806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe45f2612d72830800000000000000
+      internalID: 4046433782940888860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41771ea267b4b24e0800000000000000
+      internalID: -2005426238165780716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133de4cfd6dde420800000000000000
+      internalID: 2661019211415761681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4858ce1263734e30800000000000000
+      internalID: 4486556519051581515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c3cae17f889e50800000000000000
+      internalID: 6816355755458021025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a9ca155170c3f0800000000000000
+      internalID: -882580916629036700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c48e9cdb62a79f0800000000000000
+      internalID: -470020614528676742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c7521ff8906ae0800000000000000
+      internalID: -1558077249778367580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97def4fa80f431e70800000000000000
+      internalID: 9084691772056006009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072e8f46b80f9460800000000000000
+      internalID: 7250523504201574154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 898
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad701f3fd24b16b20800000000000000
+      internalID: 3125977725831022554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 899
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e96ce7001a152e0800000000000000
+      internalID: -2138751324525257112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014e70f2ba3a79a0800000000000000
+      internalID: -6234606193927634684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 899
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95756cee16aeb0c0800000000000000
+      internalID: -4558023121107061348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 899
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf069e1039597ce0800000000000000
+      internalID: -1406995345370116175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 899
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97db378b1d6d5c0800000000000000
+      internalID: -4190931813075682862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211659f8f83945cc0800000000000000
+      internalID: -3723188747130019566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 834
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4dafc065fd5de30800000000000000
+      internalID: 4527770561068848342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 834
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03708f4ad8a6bbc50800000000000000
+      internalID: 6682051628724913968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d584978d8107880800000000000000
+      internalID: -8615358769132970726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737d59c172a76e90800000000000000
+      internalID: -7032473683522391174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 834
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2d1f1ef774a7a0800000000000000
+      internalID: -6366832039867634476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 834
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43aad9a0ae015b0800000000000000
+      internalID: -5399558621901474602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 834
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c08d00c85dbdb0800000000000000
+      internalID: -4774562448059349948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612a3c2f4ef88460800000000000000
+      internalID: 7244319616623321449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 770
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f32e1f3f6fb5a0800000000000000
+      internalID: -6503357020020410255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcc67620e1be8fa0800000000000000
+      internalID: -5796500094103139111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623f2ce86ef70700800000000000000
+      internalID: 506653209695040099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 768
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf51e32b77407d0800000000000000
+      internalID: -2953103848218690339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a929107f5502a70800000000000000
+      internalID: 8800128191253617195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd616366ffaf1a0800000000000000
+      internalID: -6774821874966275232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d17f1836384ef0800000000000000
+      internalID: -123789375079066863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 706
+        width: 24
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f165f4268f3010800000000000000
+      internalID: 1170801921433399374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 769
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243b7e3feecb2640800000000000000
+      internalID: 5056362533594280994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d144c26aa75f10800000000000000
+      internalID: 2258461079325759439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e5797f7dd8eacf0800000000000000
+      internalID: -239097771492680060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a89a9bdea825880800000000000000
+      internalID: -8623677582834300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968ff4954196cd80800000000000000
+      internalID: -8230731540934457706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839e43b3f640e7d50800000000000000
+      internalID: 6736826968374044984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522101ce6d3006f0800000000000000
+      internalID: -720508394485505442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3edc563a226680800000000000000
+      internalID: -8763395511934894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_76
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f97259b1727d40800000000000000
+      internalID: 5580647929032079112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b293fb27f8ae590800000000000000
+      internalID: -7644139694510757042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a30c00e7f5b700800000000000000
+      internalID: 555622670696423841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b98ee15c7e49f0800000000000000
+      internalID: -482311418745865815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3f220c28b1bd40800000000000000
+      internalID: 5598458310952959727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_81
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabf3294f929b5e0800000000000000
+      internalID: -1893436037930173722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_82
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762d3d282fba0ec0800000000000000
+      internalID: -3599854772850710925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_83
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f387a9fa1d7a9c0800000000000000
+      internalID: -3915930798834303085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_84
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77681e9f54ce0c0800000000000000
+      internalID: -4545180984390813787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_85
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c8188790db85e0800000000000000
+      internalID: -1906200668019309940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_86
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 578
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088359c539f173c40800000000000000
+      internalID: 5491892988375545984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 578
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86fb746303eb0a0800000000000000
+      internalID: -6863995772375963393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf820db81822bb0800000000000000
+      internalID: -4962261401916081046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_89
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 579
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5cc828715db8660800000000000000
+      internalID: 7389233910582658465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39b01d2a2ac0070800000000000000
+      internalID: 8074007052144055227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_91
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed124801931fcdb00800000000000000
+      internalID: 854823256686076382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_92
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0a4f46c5178160800000000000000
+      internalID: 7027609685012909448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_93
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 578
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d26ed71037e3b80800000000000000
+      internalID: -8413160603637109381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_94
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 578
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6477d6a5238570800000000000000
+      internalID: 8467653122896194568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41555a57458b462c0800000000000000
+      internalID: -4439220659789933292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 514
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc0934f327b16300800000000000000
+      internalID: 243677219903835345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 514
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71eb394a4fe39970800000000000000
+      internalID: 8760608802501026174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d23af980bf5c5040800000000000000
+      internalID: 4637686928118526677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_99
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 514
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b30497571152400800000000000000
+      internalID: 298664146533104478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 514
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aebcb5267e76cff0800000000000000
+      internalID: -16186502744850781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_101
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10b40d49870e850800000000000000
+      internalID: 6404251250665914810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7c4544dab2b6d0800000000000000
+      internalID: -2976110982880002127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 450
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329d27ba5ffce770800000000000000
+      internalID: 8641562550102495805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_104
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608e5c96b8361560800000000000000
+      internalID: 7284071804276998246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_105
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 450
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06d6abd0777dd00800000000000000
+      internalID: 997396743331864815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc15276135cfa290800000000000000
+      internalID: -7876860407273153282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e13cf41afb6ff0800000000000000
+      internalID: -41664803492468804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 386
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33944c514880781b0800000000000000
+      internalID: -5654541443746477773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 386
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa276714f28f1e80800000000000000
+      internalID: -8205696011169486162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 386
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c8729f99c36ef0800000000000000
+      internalID: -116027478187130495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 386
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946f561cb11e4cb0800000000000000
+      internalID: -4877941846868794222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_112
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf6657b0f5dd720800000000000000
+      internalID: 2872556640151206585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58278b30a6b6ec40800000000000000
+      internalID: 5541317190835710044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f4a6a0767828a0800000000000000
+      internalID: -6329679050064989483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 322
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d09ed8747dd020800000000000000
+      internalID: 2368177041545679914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeba6b0d60efa260800000000000000
+      internalID: 7111149095588904678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ab96bcad1bf960800000000000000
+      internalID: 7636730220772042244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_118
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206b729c1848fa80800000000000000
+      internalID: -8432911014697410525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935f00bba59cc730800000000000000
+      internalID: 4020753131960750995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_120
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fdc4b4f1b717b00800000000000000
+      internalID: 824575581123043130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 43
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4b48757df4d870800000000000000
+      internalID: 8706862660585212844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 38
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e6fd8aae527a10800000000000000
+      internalID: 1905689678950361419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_123
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 42
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7997cc1a42f85aa0800000000000000
+      internalID: -6171916889186920067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62736954c9bf4c70800000000000000
+      internalID: 8957582436827624047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee86dece9b876a450800000000000000
+      internalID: 6099695485259180270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_126
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 44
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9a10d24d4405ed0800000000000000
+      internalID: -2427364521073858074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_127
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 194
+        width: 43
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354272f46ffdef2a0800000000000000
+      internalID: -6701672946497805229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_128
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c8419f47a21650800000000000000
+      internalID: 6202203597024314904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_129
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 34
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b3031f43ba37d0800000000000000
+      internalID: -2937838654703028149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_130
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b66249cce87fc0800000000000000
+      internalID: -3496784761506581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_131
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 38
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5db4c9fa47d8d0800000000000000
+      internalID: -2821704204916269479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e91f004f945ab0800000000000000
+      internalID: -5020212587131180965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_133
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecacf3b0ba850840800000000000000
+      internalID: 5189706637152922850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_134
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fe1cfc40aa9b70800000000000000
+      internalID: 8906607465586424209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_135
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3c8ac4463ae840800000000000000
+      internalID: 5254071584364968842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_136
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070c12159f2f7b90800000000000000
+      internalID: -7242017358488008952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 39
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57fc3df6bd08da20800000000000000
+      internalID: 3087232624146315098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_138
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34b1ee5194b2850800000000000000
+      internalID: 6353252057874121715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_139
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72b5f8d0fc71610800000000000000
+      internalID: 1591968650445399989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_140
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb973fd94615f3a0800000000000000
+      internalID: -6632370369699800096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_141
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218f243024f71da0800000000000000
+      internalID: -5974037961532014304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_142
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b63fcff48c39370800000000000000
+      internalID: 8328220381809961834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_143
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 128
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72e5ba1265ed1d0800000000000000
+      internalID: -3324124772343863364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_144
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839679e8940e1b40800000000000000
+      internalID: 5412768856944317324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_145
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc045cf078ca0feb0800000000000000
+      internalID: -4688057516007538485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_146
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57951823526f1700800000000000000
+      internalID: 513236991837837147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939f9d36e773ea20800000000000000
+      internalID: 3090445600066343828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c43f5d98ca3030800000000000000
+      internalID: 3475310640702472229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc00886c4395ed40800000000000000
+      internalID: 5613054466967211250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53acb0a48423cf0800000000000000
+      internalID: -274077144453597703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_151
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356bce221e57af50800000000000000
+      internalID: 6892581186901337407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e2768b35a15ed0800000000000000
+      internalID: -2426977049098656684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23ae9ef9328d220800000000000000
+      internalID: 2510795961990263466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_154
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19a5bb1c3fd8fe0800000000000000
+      internalID: -1185023113531059736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d8168778073f60800000000000000
+      internalID: 8013883371372992544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a5191e2597fab0800000000000000
+      internalID: -4974343238185539817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b109fdd0469f470800000000000000
+      internalID: 8428878188348709733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399cbf8bf98a0d150800000000000000
+      internalID: 5895397316184754579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c7cb4a4a281450800000000000000
+      internalID: 6059639797214332765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff559e57cfe97f110800000000000000
+      internalID: 1294678225039480319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_161
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29781a5457099b80800000000000000
+      internalID: -8387664772130637523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_162
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717be5d55faaf6d0800000000000000
+      internalID: -2955857422219251337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_163
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5f32641a5318d0800000000000000
+      internalID: -2876856693365449578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow arrow_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffa7cc32a7f13010800000000000000
+      internalID: 1166986054642151412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

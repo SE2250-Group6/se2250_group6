@@ -1,0 +1,4376 @@
+fileFormatVersion: 2
+guid: 8df1dca9d7c249a46b07171203566eaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1190316232712928898
+    second: bad raptile_0
+  - first:
+      213: -1843372628561786250
+    second: bad raptile_1
+  - first:
+      213: -2462793800829424614
+    second: bad raptile_2
+  - first:
+      213: 773388312972298651
+    second: bad raptile_3
+  - first:
+      213: -1134514620583782978
+    second: bad raptile_4
+  - first:
+      213: -1340301781037921264
+    second: bad raptile_5
+  - first:
+      213: 5446493117601979093
+    second: bad raptile_6
+  - first:
+      213: -2065857720089000759
+    second: bad raptile_7
+  - first:
+      213: -3900690220583478180
+    second: bad raptile_8
+  - first:
+      213: 3357292381148772124
+    second: bad raptile_9
+  - first:
+      213: -9165933687002419649
+    second: bad raptile_10
+  - first:
+      213: 3576880741758589839
+    second: bad raptile_11
+  - first:
+      213: 429040905137044430
+    second: bad raptile_12
+  - first:
+      213: -2052386284104344815
+    second: bad raptile_13
+  - first:
+      213: -8929505319409241415
+    second: bad raptile_14
+  - first:
+      213: -5644314435035275675
+    second: bad raptile_15
+  - first:
+      213: -3795031736217455055
+    second: bad raptile_16
+  - first:
+      213: -973782758318462886
+    second: bad raptile_17
+  - first:
+      213: 8393205719960584536
+    second: bad raptile_18
+  - first:
+      213: -3267101732904805989
+    second: bad raptile_19
+  - first:
+      213: 2053975046437443634
+    second: bad raptile_20
+  - first:
+      213: -5683109057876166995
+    second: bad raptile_21
+  - first:
+      213: 4010699272901908660
+    second: bad raptile_22
+  - first:
+      213: 703347958378036343
+    second: bad raptile_23
+  - first:
+      213: 6101901137035510259
+    second: bad raptile_24
+  - first:
+      213: -1329803700314402397
+    second: bad raptile_25
+  - first:
+      213: -502718204105111521
+    second: bad raptile_26
+  - first:
+      213: -7597622247736848938
+    second: bad raptile_27
+  - first:
+      213: 1122769519284840542
+    second: bad raptile_28
+  - first:
+      213: -799907530607788570
+    second: bad raptile_29
+  - first:
+      213: 9157412908742374947
+    second: bad raptile_30
+  - first:
+      213: 1657026537010426241
+    second: bad raptile_31
+  - first:
+      213: -7622474573052667372
+    second: bad raptile_32
+  - first:
+      213: 6295864202969327504
+    second: bad raptile_33
+  - first:
+      213: 3126776512844918944
+    second: bad raptile_34
+  - first:
+      213: 4351944434547630862
+    second: bad raptile_35
+  - first:
+      213: -8737278977592273450
+    second: bad raptile_36
+  - first:
+      213: -6353946153034838653
+    second: bad raptile_37
+  - first:
+      213: -6011700286780466619
+    second: bad raptile_38
+  - first:
+      213: -1472844713475825324
+    second: bad raptile_39
+  - first:
+      213: 8601858524259011016
+    second: bad raptile_40
+  - first:
+      213: 5281991611069979869
+    second: bad raptile_41
+  - first:
+      213: 4077041782225152125
+    second: bad raptile_42
+  - first:
+      213: -2950514037380203887
+    second: bad raptile_43
+  - first:
+      213: 827381236117142391
+    second: bad raptile_44
+  - first:
+      213: -7976066976187797476
+    second: bad raptile_45
+  - first:
+      213: 3945063102938620025
+    second: bad raptile_46
+  - first:
+      213: -588985523929579735
+    second: bad raptile_47
+  - first:
+      213: -405656770975207309
+    second: bad raptile_48
+  - first:
+      213: 37341794988458478
+    second: bad raptile_49
+  - first:
+      213: -4769855147742522932
+    second: bad raptile_50
+  - first:
+      213: 4010572104892623704
+    second: bad raptile_51
+  - first:
+      213: 6146899194287585175
+    second: bad raptile_52
+  - first:
+      213: -7792326338567481459
+    second: bad raptile_53
+  - first:
+      213: 7131476890553065927
+    second: bad raptile_54
+  - first:
+      213: 4408804662900179882
+    second: bad raptile_55
+  - first:
+      213: -5396335539775812642
+    second: bad raptile_56
+  - first:
+      213: 2996226016637293256
+    second: bad raptile_57
+  - first:
+      213: -7409002847194857754
+    second: bad raptile_58
+  - first:
+      213: 8268456549099037056
+    second: bad raptile_59
+  - first:
+      213: -1826110115574184209
+    second: bad raptile_60
+  - first:
+      213: 8633316722662711019
+    second: bad raptile_61
+  - first:
+      213: 3863424840640530096
+    second: bad raptile_62
+  - first:
+      213: -1919905669002225256
+    second: bad raptile_63
+  - first:
+      213: 4578995128839966190
+    second: bad raptile_64
+  - first:
+      213: 6944803552495311230
+    second: bad raptile_65
+  - first:
+      213: -2208783343311559266
+    second: bad raptile_66
+  - first:
+      213: 6961898323318242839
+    second: bad raptile_67
+  - first:
+      213: 2198944082674757106
+    second: bad raptile_68
+  - first:
+      213: 7328583920506584970
+    second: bad raptile_69
+  - first:
+      213: -345899914434530834
+    second: bad raptile_70
+  - first:
+      213: -8315573205941848632
+    second: bad raptile_71
+  - first:
+      213: -4504966589981390859
+    second: bad raptile_72
+  - first:
+      213: -4386996922820137268
+    second: bad raptile_73
+  - first:
+      213: -1793422252224550502
+    second: bad raptile_74
+  - first:
+      213: -4854800483971793385
+    second: bad raptile_75
+  - first:
+      213: -2937915281110722086
+    second: bad raptile_76
+  - first:
+      213: -5693492509196374832
+    second: bad raptile_77
+  - first:
+      213: 6235138719080763029
+    second: bad raptile_78
+  - first:
+      213: 2397878435831516096
+    second: bad raptile_79
+  - first:
+      213: -6546497659094793043
+    second: bad raptile_80
+  - first:
+      213: -1723222560614963224
+    second: bad raptile_81
+  - first:
+      213: 8910189814419977348
+    second: bad raptile_82
+  - first:
+      213: 2245093503656343398
+    second: bad raptile_83
+  - first:
+      213: 4963546169125933632
+    second: bad raptile_84
+  - first:
+      213: -5513023668805013620
+    second: bad raptile_85
+  - first:
+      213: 4317429057714896517
+    second: bad raptile_86
+  - first:
+      213: 572101895661271109
+    second: bad raptile_87
+  - first:
+      213: -6360614245590095721
+    second: bad raptile_88
+  - first:
+      213: 6246208717287079072
+    second: bad raptile_89
+  - first:
+      213: 7855846709225191312
+    second: bad raptile_90
+  - first:
+      213: 1494813218077890367
+    second: bad raptile_91
+  - first:
+      213: -7091658782302303265
+    second: bad raptile_92
+  - first:
+      213: -6361509494959515657
+    second: bad raptile_93
+  - first:
+      213: 1319445802264879517
+    second: bad raptile_94
+  - first:
+      213: 8376819490389232182
+    second: bad raptile_95
+  - first:
+      213: 7333337099782570841
+    second: bad raptile_96
+  - first:
+      213: -5738599551814503356
+    second: bad raptile_97
+  - first:
+      213: 6122847030152697787
+    second: bad raptile_98
+  - first:
+      213: 6882794737812283956
+    second: bad raptile_99
+  - first:
+      213: -7245120135657308430
+    second: bad raptile_100
+  - first:
+      213: -1917423478259442371
+    second: bad raptile_101
+  - first:
+      213: 8183650321948078449
+    second: bad raptile_102
+  - first:
+      213: -3056593821122782816
+    second: bad raptile_103
+  - first:
+      213: -2504155722672140040
+    second: bad raptile_104
+  - first:
+      213: 6261088577823680562
+    second: bad raptile_105
+  - first:
+      213: -1485155208095725515
+    second: bad raptile_106
+  - first:
+      213: -4341437000701089558
+    second: bad raptile_107
+  - first:
+      213: -4013766692167560734
+    second: bad raptile_108
+  - first:
+      213: 6983337020148649190
+    second: bad raptile_109
+  - first:
+      213: -8389998419719444053
+    second: bad raptile_110
+  - first:
+      213: -878218884303711770
+    second: bad raptile_111
+  - first:
+      213: -7963508444080007676
+    second: bad raptile_112
+  - first:
+      213: 7504775056002845250
+    second: bad raptile_113
+  - first:
+      213: -3576909916623522959
+    second: bad raptile_114
+  - first:
+      213: 2610508928322102664
+    second: bad raptile_115
+  - first:
+      213: -1335504192028566236
+    second: bad raptile_116
+  - first:
+      213: -3446284897890241371
+    second: bad raptile_117
+  - first:
+      213: -4313123926663006948
+    second: bad raptile_118
+  - first:
+      213: -343308169677055108
+    second: bad raptile_119
+  - first:
+      213: -2727339906152600771
+    second: bad raptile_120
+  - first:
+      213: 8415085879751763645
+    second: bad raptile_121
+  - first:
+      213: 2693043905375912762
+    second: bad raptile_122
+  - first:
+      213: -4210133779911474739
+    second: bad raptile_123
+  - first:
+      213: 5804554653698287821
+    second: bad raptile_124
+  - first:
+      213: 4001734442772239514
+    second: bad raptile_125
+  - first:
+      213: 4481247152878269303
+    second: bad raptile_126
+  - first:
+      213: -3288948272656149205
+    second: bad raptile_127
+  - first:
+      213: -7063021521233485700
+    second: bad raptile_128
+  - first:
+      213: -2698984061532970058
+    second: bad raptile_129
+  - first:
+      213: -45848619335405848
+    second: bad raptile_130
+  - first:
+      213: -2920576944961108124
+    second: bad raptile_131
+  - first:
+      213: -1788835071821992514
+    second: bad raptile_132
+  - first:
+      213: -490849537062737145
+    second: bad raptile_133
+  - first:
+      213: -2973894507295884788
+    second: bad raptile_134
+  - first:
+      213: 6352282838427345000
+    second: bad raptile_135
+  - first:
+      213: -4964122810186634267
+    second: bad raptile_136
+  - first:
+      213: 7974299432409731336
+    second: bad raptile_137
+  - first:
+      213: 4651002232598506947
+    second: bad raptile_138
+  - first:
+      213: -5710959584205296185
+    second: bad raptile_139
+  - first:
+      213: -3789456382288128940
+    second: bad raptile_140
+  - first:
+      213: -3574100260128478271
+    second: bad raptile_141
+  - first:
+      213: 3974764086309167440
+    second: bad raptile_142
+  - first:
+      213: 8077901404496961075
+    second: bad raptile_143
+  - first:
+      213: 4158019819794521647
+    second: bad raptile_144
+  - first:
+      213: 648173319168876237
+    second: bad raptile_145
+  - first:
+      213: 750725669112055941
+    second: bad raptile_146
+  - first:
+      213: -312356870995848303
+    second: bad raptile_147
+  - first:
+      213: -1396606025592723120
+    second: bad raptile_148
+  - first:
+      213: -1827555810902160101
+    second: bad raptile_149
+  - first:
+      213: 7230285314743141730
+    second: bad raptile_150
+  - first:
+      213: -4953642331653902565
+    second: bad raptile_151
+  - first:
+      213: 1237872902566532178
+    second: bad raptile_152
+  - first:
+      213: 866016224896643546
+    second: bad raptile_153
+  - first:
+      213: -1944686393223289258
+    second: bad raptile_154
+  - first:
+      213: -8569148051563975914
+    second: bad raptile_155
+  - first:
+      213: 633953091270296258
+    second: bad raptile_156
+  - first:
+      213: 7585159520288025194
+    second: bad raptile_157
+  - first:
+      213: 1305880507181497385
+    second: bad raptile_158
+  - first:
+      213: -7167434104595151688
+    second: bad raptile_159
+  - first:
+      213: -971037882711339934
+    second: bad raptile_160
+  - first:
+      213: 2457808788339906537
+    second: bad raptile_161
+  - first:
+      213: -7637089247037769387
+    second: bad raptile_162
+  - first:
+      213: 6863630160572881381
+    second: bad raptile_163
+  - first:
+      213: 9212694594097738136
+    second: bad raptile_164
+  - first:
+      213: -3702917958554820167
+    second: bad raptile_165
+  - first:
+      213: -6956084385475990727
+    second: bad raptile_166
+  - first:
+      213: 2268377396392627017
+    second: bad raptile_167
+  - first:
+      213: -8150030972686777400
+    second: bad raptile_168
+  - first:
+      213: -6595079035946490926
+    second: bad raptile_169
+  - first:
+      213: -649636231316223593
+    second: bad raptile_170
+  - first:
+      213: 5894472028543324348
+    second: bad raptile_171
+  - first:
+      213: 3906823836543867063
+    second: bad raptile_172
+  - first:
+      213: -2250604529211447119
+    second: bad raptile_173
+  - first:
+      213: 598945297555787499
+    second: bad raptile_174
+  - first:
+      213: -4103385495694871757
+    second: bad raptile_175
+  - first:
+      213: 2962673718193360970
+    second: bad raptile_176
+  - first:
+      213: 2420817915100379641
+    second: bad raptile_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bad raptile_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1281
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c3c261b52b7fe0800000000000000
+      internalID: -1190316232712928898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1281
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a85e56c560b66e0800000000000000
+      internalID: -1843372628561786250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1281
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c278a261662ddd0800000000000000
+      internalID: -2462793800829424614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1281
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b990724b290abba00800000000000000
+      internalID: 773388312972298651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1281
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5dd97a6f46140f0800000000000000
+      internalID: -1134514620583782978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1281
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c4961a1aa466de0800000000000000
+      internalID: -1340301781037921264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1281
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da964a32a4d59b40800000000000000
+      internalID: 5446493117601979093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c89559599453e0800000000000000
+      internalID: -2065857720089000759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c184f39e6fdd9c0800000000000000
+      internalID: -3900690220583478180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177f7902af779e20800000000000000
+      internalID: 3357292381148772124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2f67ffdf0cc080800000000000000
+      internalID: -9165933687002419649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd4706512a3a130800000000000000
+      internalID: 3576880741758589839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3ec81e6244f500800000000000000
+      internalID: 429040905137044430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b93127c857483e0800000000000000
+      internalID: -2052386284104344815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1154
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b6a8f836041480800000000000000
+      internalID: -8929505319409241415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1154
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56edc1b1ded5ba1b0800000000000000
+      internalID: -5644314435035275675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1154
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136bc6b2eb6555bc0800000000000000
+      internalID: -3795031736217455055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1154
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58270a9dbd6c72f0800000000000000
+      internalID: -973782758318462886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85107091228aa7470800000000000000
+      internalID: 8393205719960584536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995525a84ce8a2d0800000000000000
+      internalID: -3267101732904805989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1154
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389b6c1c6f218c10800000000000000
+      internalID: 2053975046437443634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67c791c6a8121b0800000000000000
+      internalID: -5683109057876166995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b85c363dbdd8a730800000000000000
+      internalID: 4010699272901908660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7e9cdd3bc2c900800000000000000
+      internalID: 703347958378036343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cd8f31ce4ea450800000000000000
+      internalID: 6101901137035510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1090
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a192c584969b8de0800000000000000
+      internalID: -1329803700314402397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1090
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184136f47cf509f0800000000000000
+      internalID: -502718204105111521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4a02d1d2df8690800000000000000
+      internalID: -7597622247736848938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1025
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58eb99dde0e49f00800000000000000
+      internalID: 1122769519284840542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1024
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed76f8c65826e4f0800000000000000
+      internalID: -799907530607788570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267a2fb58aa51f70800000000000000
+      internalID: 9157412908742374947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f6e92bd0fef610800000000000000
+      internalID: 1657026537010426241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1024
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9fbbe2c7873690800000000000000
+      internalID: -7622474573052667372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1024
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a51cb2276f5750800000000000000
+      internalID: 6295864202969327504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1024
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f72c0caa846b20800000000000000
+      internalID: 3126776512844918944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032377d766356c30800000000000000
+      internalID: 4351944434547630862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 962
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5df1ddf03feb680800000000000000
+      internalID: -8737278977592273450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d066273af32d7a0800000000000000
+      internalID: -6353946153034838653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1656c076229ca0800000000000000
+      internalID: -6011700286780466619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 962
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45126fb59876f8be0800000000000000
+      internalID: -1472844713475825324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9cf92d0c0ff5770800000000000000
+      internalID: 8601858524259011016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5b6492676d4940800000000000000
+      internalID: 5281991611069979869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a4fb56ef849830800000000000000
+      internalID: 4077041782225152125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 962
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a36219d1bad07d0800000000000000
+      internalID: -2950514037380203887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 898
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf590c9d27b7b00800000000000000
+      internalID: 827381236117142391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 899
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103a9b18515f4190800000000000000
+      internalID: -7976066976187797476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 899
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97028238dfdafb630800000000000000
+      internalID: 3945063102938620025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_47
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 899
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f745c59c083d7f0800000000000000
+      internalID: -588985523929579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 899
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707a49e051de5af0800000000000000
+      internalID: -405656770975207309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 899
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee100992a2aa48000800000000000000
+      internalID: 37341794988458478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 899
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11db0d3021ecdb0800000000000000
+      internalID: -4769855147742522932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 899
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b273a941a68a730800000000000000
+      internalID: 4010572104892623704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 834
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79775a1ef3c2e4550800000000000000
+      internalID: 6146899194287585175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 834
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87d3c70b781cd390800000000000000
+      internalID: -7792326338567481459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 834
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a251a27818f260800000000000000
+      internalID: 7131476890553065927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 834
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa340486b783f2d30800000000000000
+      internalID: 4408804662900179882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 834
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc8d6ea6d5c15b0800000000000000
+      internalID: -5396335539775812642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 834
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2137cffabb49920800000000000000
+      internalID: 2996226016637293256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 834
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb7114a2fed2990800000000000000
+      internalID: -7409002847194857754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 834
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ecc95c657fb270800000000000000
+      internalID: 8268456549099037056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60478668a58a6e0800000000000000
+      internalID: -1826110115574184209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee10c761d3bfc770800000000000000
+      internalID: 8633316722662711019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b68cca5c64ad9530800000000000000
+      internalID: 3863424840640530096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 769
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991dd457ff1b55e0800000000000000
+      internalID: -1919905669002225256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed00c22fcbdb8f30800000000000000
+      internalID: 4578995128839966190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e799a5d2906e06060800000000000000
+      internalID: 6944803552495311230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e956d1c7043d851e0800000000000000
+      internalID: -2208783343311559266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_67
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 769
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e75cba3a1ad9060800000000000000
+      internalID: 6961898323318242839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda6c02ef7348e10800000000000000
+      internalID: 2198944082674757106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3f684f3c54b560800000000000000
+      internalID: 7328583920506584970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ba484cdd133bf0800000000000000
+      internalID: -345899914434530834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5741c1a36299c80800000000000000
+      internalID: -8315573205941848632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 707
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7082731c42b71c0800000000000000
+      internalID: -4504966589981390859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee290ca814e13c0800000000000000
+      internalID: -4386996922820137268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99efdba6fb7c17e0800000000000000
+      internalID: -1793422252224550502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e77718ea840acb0800000000000000
+      internalID: -4854800483971793385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad914391e9d6a37d0800000000000000
+      internalID: -2937915281110722086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 706
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca0027ab6acf0b0800000000000000
+      internalID: -5693492509196374832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 642
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ec71c31a9a78650800000000000000
+      internalID: 6235138719080763029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 642
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb8e4e9bb9f64120800000000000000
+      internalID: 2397878435831516096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 641
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48aba501b2625a0800000000000000
+      internalID: -6546497659094793043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 641
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72b9d0632e518e0800000000000000
+      internalID: -1723222560614963224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 641
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847ec19d6a57ab70800000000000000
+      internalID: 8910189814419977348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 642
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66739f485ac282f10800000000000000
+      internalID: 2245093503656343398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 641
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042900d51fe02e440800000000000000
+      internalID: 4963546169125933632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 641
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6e86be2ecd73b0800000000000000
+      internalID: -5513023668805013620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_86
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 641
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebb007ad69aeb30800000000000000
+      internalID: 4317429057714896517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b73a94a380f700800000000000000
+      internalID: 572101895661271109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 578
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798205a2b0f8ab7a0800000000000000
+      internalID: -6360614245590095721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 579
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac38da0cbdfea650800000000000000
+      internalID: 6246208717287079072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 579
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f941c5f2950d60800000000000000
+      internalID: 7855846709225191312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375715b3b4aeb410800000000000000
+      internalID: 1494813218077890367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 578
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb879429ed559d90800000000000000
+      internalID: -7091658782302303265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_93
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d9ada1d067b7a0800000000000000
+      internalID: -6361509494959515657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e06867fc9f4210800000000000000
+      internalID: 1319445802264879517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_95
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0838b1f0704470800000000000000
+      internalID: 8376819490389232182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 513
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cbb21d3f35c560800000000000000
+      internalID: 7333337099782570841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 511
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44471edac166c50b0800000000000000
+      internalID: -5738599551814503356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 511
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79e460fe8b8f450800000000000000
+      internalID: 6122847030152697787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_99
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 511
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432aa31f859948f50800000000000000
+      internalID: 6882794737812283956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 511
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2febd177f99247b90800000000000000
+      internalID: -7245120135657308430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_101
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 511
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1a566181f365e0800000000000000
+      internalID: -1917423478259442371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 450
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f9b5eb9a229170800000000000000
+      internalID: 8183650321948078449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9925d3d1cc495d0800000000000000
+      internalID: -3056593821122782816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09dd743a37f3dd0800000000000000
+      internalID: -2504155722672140040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238af6c83ead3e650800000000000000
+      internalID: 6261088577823680562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5380229f43ba36be0800000000000000
+      internalID: -1485155208095725515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8697ebc0e10c3c0800000000000000
+      internalID: -4341437000701089558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 386
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1de06957c3c48c0800000000000000
+      internalID: -4013766692167560734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 386
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8bc0450cc9e060800000000000000
+      internalID: 6983337020148649190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_110
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 386
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a88ea3ecb09b80800000000000000
+      internalID: -8389998419719444053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_111
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 386
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19906e390ffc3f0800000000000000
+      internalID: -878218884303711770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 386
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40699c8334feb7190800000000000000
+      internalID: -7963508444080007676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 386
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0344c621562860800000000000000
+      internalID: 7504775056002845250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 322
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733512d1634c5ec0800000000000000
+      internalID: -3576909916623522959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 322
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ef9b0a046a3420800000000000000
+      internalID: 2610508928322102664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 322
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d971e5306577de0800000000000000
+      internalID: -1335504192028566236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 322
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4757205265c20d0800000000000000
+      internalID: -3446284897890241371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_118
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15730ff3a4b424c0800000000000000
+      internalID: -4313123926663006948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 322
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd8e1e9035c3bf0800000000000000
+      internalID: -343308169677055108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 257
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be6003eca862ad0800000000000000
+      internalID: -2727339906152600771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66209c50468c470800000000000000
+      internalID: 8415085879751763645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a334670e92d9f5520800000000000000
+      internalID: 2693043905375912762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1018722a99295c0800000000000000
+      internalID: -4210133779911474739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e60524bbed8050800000000000000
+      internalID: 5804554653698287821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_125
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9492ea0644098730800000000000000
+      internalID: 4001734442772239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_126
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733a0afa86903e30800000000000000
+      internalID: 4481247152878269303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 256
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2512bbb8fe4b52d0800000000000000
+      internalID: -3288948272656149205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 256
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7060f1195b1bfd90800000000000000
+      internalID: -7063021521233485700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_129
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 256
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e2edbb484b8ad0800000000000000
+      internalID: -2698984061532970058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_130
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 256
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee22137cec1d5ff0800000000000000
+      internalID: -45848619335405848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_131
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 256
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c5601eb60877d0800000000000000
+      internalID: -2920576944961108124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_132
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 256
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2a46daf7cc27e0800000000000000
+      internalID: -1788835071821992514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be53952f62039f0800000000000000
+      internalID: -490849537062737145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab425b3ba9ab6d0800000000000000
+      internalID: -2973894507295884788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a541f597d72850800000000000000
+      internalID: 6352282838427345000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb696dea94eb1bb0800000000000000
+      internalID: -4964122810186634267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801916985176aae60800000000000000
+      internalID: 7974299432409731336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd259373edab8040800000000000000
+      internalID: 4651002232598506947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda4d024889eb0b0800000000000000
+      internalID: -5710959584205296185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45411e96f75296bc0800000000000000
+      internalID: -3789456382288128940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2963ffbe366ec0800000000000000
+      internalID: -3574100260128478271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051207690e2392730800000000000000
+      internalID: 3974764086309167440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9ba167887a1070800000000000000
+      internalID: 8077901404496961075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed2e7fef044b930800000000000000
+      internalID: 4158019819794521647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce52f91336cef800800000000000000
+      internalID: 648173319168876237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588013fb40d1b6a00800000000000000
+      internalID: 750725669112055941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d32da4194aabf0800000000000000
+      internalID: -312356870995848303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059206128324e9ce0800000000000000
+      internalID: -1396606025592723120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc9fb3ca733a6e0800000000000000
+      internalID: -1827555810902160101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650df1af22275460800000000000000
+      internalID: 7230285314743141730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6e6d7b80214bb0800000000000000
+      internalID: -4953642331653902565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545f8aa8decd2110800000000000000
+      internalID: 1237872902566532178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad170be0b25b40c00800000000000000
+      internalID: 866016224896643546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e36c57061305e0800000000000000
+      internalID: -1944686393223289258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6cc69f35441980800000000000000
+      internalID: -8569148051563975914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24d694af04cc800800000000000000
+      internalID: 633953091270296258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_157
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 130
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa0735566e34960800000000000000
+      internalID: 7585159520288025194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf8a5076b6f1210800000000000000
+      internalID: 1305880507181497385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4069418a8288c90800000000000000
+      internalID: -7167434104595151688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_160
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c0b81c03e2682f0800000000000000
+      internalID: -971037882711339934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_161
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e755da2214eb1220800000000000000
+      internalID: 2457808788339906537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_162
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bb58facb930690800000000000000
+      internalID: -7637089247037769387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_163
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99a961443804f50800000000000000
+      internalID: 6863630160572881381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_164
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917b512ce01adf70800000000000000
+      internalID: 9212694594097738136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_165
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 66
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ecef4cb79c9cc0800000000000000
+      internalID: -3702917958554820167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_166
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bef083b16077f90800000000000000
+      internalID: -6956084385475990727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_167
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b02804935ea7f10800000000000000
+      internalID: 2268377396392627017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_168
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c294d20645ee80800000000000000
+      internalID: -8150030972686777400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_169
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a8cc1f829974a0800000000000000
+      internalID: -6595079035946490926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_170
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994c2f1a470cf6f0800000000000000
+      internalID: -649636231316223593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_171
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01dc7641f5dc150800000000000000
+      internalID: 5894472028543324348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_172
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d9318493d73630800000000000000
+      internalID: 3906823836543867063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_173
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8677ada1f34c0e0800000000000000
+      internalID: -2250604529211447119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee04b42391ef4800800000000000000
+      internalID: 598945297555787499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_175
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333fd90e1a8dd07c0800000000000000
+      internalID: -4103385495694871757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_176
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a401d4ebc088d1920800000000000000
+      internalID: 2962673718193360970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad raptile_177
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b5775119789120800000000000000
+      internalID: 2420817915100379641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
