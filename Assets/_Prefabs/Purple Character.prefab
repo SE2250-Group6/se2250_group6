@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 4074296820314559092}
   - component: {fileID: 4074296820314559093}
   - component: {fileID: 4074296820314559094}
+  - component: {fileID: 2432150671234579075}
   m_Layer: 8
   m_Name: Purple Character
   m_TagString: Untagged
@@ -87,7 +88,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.29999998, y: 2.5307722}
+  m_Size: {x: 0.56, y: 0.67020446}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -132,7 +133,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.56, y: 0.68020755}
-    newSize: {x: 0.29999998, y: 2.5307722}
+    newSize: {x: 0.56, y: 0.67020446}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -198,6 +199,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 4074296820314559097}
   speed: 40
+  animator: {fileID: 2432150671234579075}
 --- !u!114 &4074296820314559093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,8 +232,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 4074296821334074173}
-  arrowPrefab: {fileID: 7509771881157792947, guid: e004e1986dc53984a9f332bfde5f189d,
-    type: 3}
+  projectile: {fileID: 0}
+--- !u!95 &2432150671234579075
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4074296820314559101}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 62cef581230562d408de4dc485dd1c6a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4074296821334074172
 GameObject:
   m_ObjectHideFlags: 0

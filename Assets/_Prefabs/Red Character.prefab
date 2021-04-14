@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 75912546604191439}
   - component: {fileID: 75912546604191438}
   - component: {fileID: 75912546604191437}
+  - component: {fileID: 460012088242590887}
   m_Layer: 8
   m_Name: Red Character
   m_TagString: Untagged
@@ -87,7 +88,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.29999998, y: 2.5307722}
+  m_Size: {x: 0.44, y: 0.62}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -132,7 +133,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.44, y: 0.62}
-    newSize: {x: 0.29999998, y: 2.5307722}
+    newSize: {x: 0.44, y: 0.62}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -198,6 +199,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 75912546604191426}
   speed: 20
+  animator: {fileID: 460012088242590887}
 --- !u!114 &75912546604191438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,8 +232,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 75912547623124870}
-  arrowPrefab: {fileID: 7509771881157792947, guid: e004e1986dc53984a9f332bfde5f189d,
-    type: 3}
+  projectile: {fileID: 0}
+--- !u!95 &460012088242590887
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 75912546604191430}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9de7d0cc1e227044ea41f1ecda97cc84, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &75912547623124871
 GameObject:
   m_ObjectHideFlags: 0

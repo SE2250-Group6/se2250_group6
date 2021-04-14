@@ -19,7 +19,7 @@ public class Arrow : MonoBehaviour
         rb.velocity = transform.right * speed; 
     }
 
-    void OnTriggerEnter2D(Collider2D hitInfo)
+    public virtual void OnTriggerEnter2D(Collider2D hitInfo)
     {
         //Debug.Log(hitInfo.name);
         if ((hitInfo.name != "Red Character") && (hitInfo.name != "Purple Character")) {

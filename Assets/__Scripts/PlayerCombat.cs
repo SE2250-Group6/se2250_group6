@@ -7,7 +7,7 @@ public class PlayerCombat : MonoBehaviour
     //public Animator animator;
 
     public Transform attackPoint;
-    public float attackRange = 0.5f;
+    public float attackRange = 1f;
     public LayerMask enemyLayer;
 
     public int attackDamage = 50;
@@ -29,6 +29,7 @@ public class PlayerCombat : MonoBehaviour
 
     void Attack()
     {
+        Debug.Log("attack called");
         //attack animation to be put in later 
         //animator.SetTrigger("Attack"); 
 
@@ -38,6 +39,7 @@ public class PlayerCombat : MonoBehaviour
         //damage enemy
         foreach(Collider2D enemy in hitEnemies)
         {
+            Debug.Log("collide with enemy");
             enemy.GetComponent<Enemy>().TakeDamage(attackDamage); 
         }
     }

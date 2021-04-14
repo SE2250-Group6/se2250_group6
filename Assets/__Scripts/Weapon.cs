@@ -6,7 +6,7 @@ public class Weapon : MonoBehaviour
 {
 
     public Transform firePoint;
-    public GameObject arrowPrefab;
+    public GameObject projectile;
 
     // Start is called before the first frame update
     void Start()
@@ -23,9 +23,9 @@ public class Weapon : MonoBehaviour
         }
     }
 
-    void Shoot()
+    public virtual void Shoot()
     {
         //shooting logic
-        Instantiate(arrowPrefab, firePoint.position, firePoint.rotation); 
+        Instantiate(projectile, firePoint.position, firePoint.rotation); 
     }
 }

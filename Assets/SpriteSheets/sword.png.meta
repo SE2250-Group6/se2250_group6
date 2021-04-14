@@ -3,306 +3,6 @@ guid: 025961f0f41be7540af8eeec6bb2e4ff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3982795766476387729
-    second: bow arrow_0
-  - first:
-      213: 5216175327408622837
-    second: bow arrow_1
-  - first:
-      213: -960423696789427838
-    second: bow arrow_2
-  - first:
-      213: -6278788359091489608
-    second: bow arrow_3
-  - first:
-      213: -1933561721333049369
-    second: bow arrow_4
-  - first:
-      213: 3620842251769258536
-    second: bow arrow_5
-  - first:
-      213: -5659338544714801100
-    second: bow arrow_6
-  - first:
-      213: 5383235273710781939
-    second: bow arrow_7
-  - first:
-      213: -2371820935795982264
-    second: bow arrow_8
-  - first:
-      213: -6436995192823134178
-    second: bow arrow_9
-  - first:
-      213: 7707119937002321476
-    second: bow arrow_10
-  - first:
-      213: 7375756307839734855
-    second: bow arrow_11
-  - first:
-      213: -3649217068989735764
-    second: bow arrow_12
-  - first:
-      213: 7456972898893742487
-    second: bow arrow_13
-  - first:
-      213: -3534130627655103538
-    second: bow arrow_14
-  - first:
-      213: -2476117500096412377
-    second: bow arrow_15
-  - first:
-      213: -9081990597185857898
-    second: bow arrow_16
-  - first:
-      213: 1439242136384033107
-    second: bow arrow_17
-  - first:
-      213: -1075285958199465304
-    second: bow arrow_18
-  - first:
-      213: 6793143751301617913
-    second: bow arrow_19
-  - first:
-      213: -76731536314924162
-    second: bow arrow_20
-  - first:
-      213: 1254499549095993466
-    second: bow arrow_21
-  - first:
-      213: 9203570015834957321
-    second: bow arrow_22
-  - first:
-      213: -4201606513139066027
-    second: bow arrow_23
-  - first:
-      213: -4379468758281624990
-    second: bow arrow_24
-  - first:
-      213: -1858965727788334758
-    second: bow arrow_25
-  - first:
-      213: -3693345255182353262
-    second: bow arrow_26
-  - first:
-      213: 4134352545532819901
-    second: bow arrow_27
-  - first:
-      213: -5235282199214288779
-    second: bow arrow_28
-  - first:
-      213: -6359581305214737772
-    second: bow arrow_29
-  - first:
-      213: -170102716549125937
-    second: bow arrow_30
-  - first:
-      213: 5587769256977480564
-    second: bow arrow_31
-  - first:
-      213: 7101878468990891322
-    second: bow arrow_32
-  - first:
-      213: -2139932378205624275
-    second: bow arrow_33
-  - first:
-      213: -6340792428521015806
-    second: bow arrow_34
-  - first:
-      213: 4046433782940888860
-    second: bow arrow_35
-  - first:
-      213: -2005426238165780716
-    second: bow arrow_36
-  - first:
-      213: 2661019211415761681
-    second: bow arrow_37
-  - first:
-      213: 4486556519051581515
-    second: bow arrow_38
-  - first:
-      213: 6816355755458021025
-    second: bow arrow_39
-  - first:
-      213: -882580916629036700
-    second: bow arrow_40
-  - first:
-      213: -470020614528676742
-    second: bow arrow_41
-  - first:
-      213: -1558077249778367580
-    second: bow arrow_42
-  - first:
-      213: 9084691772056006009
-    second: bow arrow_43
-  - first:
-      213: 7250523504201574154
-    second: bow arrow_44
-  - first:
-      213: 3125977725831022554
-    second: bow arrow_45
-  - first:
-      213: -2138751324525257112
-    second: bow arrow_46
-  - first:
-      213: -6234606193927634684
-    second: bow arrow_47
-  - first:
-      213: -4558023121107061348
-    second: bow arrow_48
-  - first:
-      213: -1406995345370116175
-    second: bow arrow_49
-  - first:
-      213: -4190931813075682862
-    second: bow arrow_50
-  - first:
-      213: -3723188747130019566
-    second: bow arrow_51
-  - first:
-      213: 4527770561068848342
-    second: bow arrow_52
-  - first:
-      213: 6682051628724913968
-    second: bow arrow_53
-  - first:
-      213: -8615358769132970726
-    second: bow arrow_54
-  - first:
-      213: -7032473683522391174
-    second: bow arrow_55
-  - first:
-      213: -6366832039867634476
-    second: bow arrow_56
-  - first:
-      213: -5399558621901474602
-    second: bow arrow_57
-  - first:
-      213: -4774562448059349948
-    second: bow arrow_58
-  - first:
-      213: 7244319616623321449
-    second: bow arrow_59
-  - first:
-      213: -6503357020020410255
-    second: bow arrow_60
-  - first:
-      213: -5796500094103139111
-    second: bow arrow_61
-  - first:
-      213: 506653209695040099
-    second: bow arrow_62
-  - first:
-      213: -2953103848218690339
-    second: bow arrow_63
-  - first:
-      213: 8800128191253617195
-    second: bow arrow_64
-  - first:
-      213: -6774821874966275232
-    second: bow arrow_65
-  - first:
-      213: -123789375079066863
-    second: bow arrow_66
-  - first:
-      213: 1170801921433399374
-    second: bow arrow_67
-  - first:
-      213: 5056362533594280994
-    second: bow arrow_68
-  - first:
-      213: 2258461079325759439
-    second: bow arrow_69
-  - first:
-      213: -239097771492680060
-    second: bow arrow_70
-  - first:
-      213: -8623677582834300372
-    second: bow arrow_71
-  - first:
-      213: -8230731540934457706
-    second: bow arrow_72
-  - first:
-      213: 6736826968374044984
-    second: bow arrow_73
-  - first:
-      213: -720508394485505442
-    second: bow arrow_74
-  - first:
-      213: -8763395511934894857
-    second: bow arrow_75
-  - first:
-      213: 5580647929032079112
-    second: bow arrow_76
-  - first:
-      213: -7644139694510757042
-    second: bow arrow_77
-  - first:
-      213: 555622670696423841
-    second: bow arrow_78
-  - first:
-      213: -482311418745865815
-    second: bow arrow_79
-  - first:
-      213: 5598458310952959727
-    second: bow arrow_80
-  - first:
-      213: -1893436037930173722
-    second: bow arrow_81
-  - first:
-      213: -3599854772850710925
-    second: bow arrow_82
-  - first:
-      213: -3915930798834303085
-    second: bow arrow_83
-  - first:
-      213: -4545180984390813787
-    second: bow arrow_84
-  - first:
-      213: -1906200668019309940
-    second: bow arrow_85
-  - first:
-      213: 5491892988375545984
-    second: bow arrow_86
-  - first:
-      213: -6863995772375963393
-    second: bow arrow_87
-  - first:
-      213: -4962261401916081046
-    second: bow arrow_88
-  - first:
-      213: 7389233910582658465
-    second: bow arrow_89
-  - first:
-      213: 8074007052144055227
-    second: bow arrow_90
-  - first:
-      213: 854823256686076382
-    second: bow arrow_91
-  - first:
-      213: 7027609685012909448
-    second: bow arrow_92
-  - first:
-      213: -8413160603637109381
-    second: bow arrow_93
-  - first:
-      213: 8467653122896194568
-    second: bow arrow_94
-  - first:
-      213: -4439220659789933292
-    second: bow arrow_95
-  - first:
-      213: 243677219903835345
-    second: bow arrow_96
-  - first:
-      213: 8760608802501026174
-    second: bow arrow_97
-  - first:
-      213: 4637686928118526677
-    second: bow arrow_98
-  - first:
-      213: 298664146533104478
-    second: bow arrow_99
-  - first:
       213: -3753825769889500098
     second: sword_0
   - first:
@@ -620,6 +320,9 @@ TextureImporter:
   - first:
       213: 8483821393374259073
     second: sword_105
+  - first:
+      213: -3975142731091212717
+    second: sword_106
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -721,9 +424,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 2049
+        y: 1857
         width: 30
-        height: 61
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +444,10 @@ TextureImporter:
       name: sword_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 2050
-        width: 29
-        height: 62
+        x: 81
+        y: 1857
+        width: 30
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,9 +466,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 2050
+        y: 1857
         width: 28
-        height: 60
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,10 +486,10 @@ TextureImporter:
       name: sword_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 2048
-        width: 35
-        height: 61
+        x: 206
+        y: 1857
+        width: 36
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +507,10 @@ TextureImporter:
       name: sword_4
       rect:
         serializedVersion: 2
-        x: 264
-        y: 2049
-        width: 48
-        height: 61
+        x: 265
+        y: 1857
+        width: 46
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,9 +529,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 329
-        y: 2048
+        y: 1857
         width: 46
-        height: 62
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,9 +550,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 398
-        y: 2049
-        width: 38
-        height: 61
+        y: 1857
+        width: 36
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,9 +571,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 1791
+        y: 1601
         width: 30
-        height: 63
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -889,9 +592,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 1790
-        width: 33
-        height: 63
+        y: 1601
+        width: 30
+        height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,9 +613,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 1790
-        width: 31
-        height: 64
+        y: 1666
+        width: 29
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -931,9 +634,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 209
-        y: 1790
+        y: 1666
         width: 31
-        height: 64
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -952,9 +655,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 270
-        y: 1792
-        width: 36
-        height: 61
+        y: 1729
+        width: 32
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,9 +676,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 1791
-        width: 37
-        height: 62
+        y: 1729
+        width: 35
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,9 +697,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 398
-        y: 1792
-        width: 35
-        height: 61
+        y: 1729
+        width: 32
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1015,9 +718,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 465
-        y: 1791
-        width: 30
-        height: 63
+        y: 1666
+        width: 31
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,9 +928,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6
-        y: 1535
-        width: 45
-        height: 64
+        y: 1411
+        width: 48
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,10 +969,10 @@ TextureImporter:
       name: sword_26
       rect:
         serializedVersion: 2
-        x: 138
-        y: 1535
-        width: 48
-        height: 64
+        x: 127
+        y: 1474
+        width: 55
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,9 +991,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 191
-        y: 1535
-        width: 53
-        height: 63
+        y: 1474
+        width: 51
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,9 +1012,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 261
-        y: 1536
-        width: 54
-        height: 63
+        y: 1409
+        width: 53
+        height: 190
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,10 +1053,10 @@ TextureImporter:
       name: sword_30
       rect:
         serializedVersion: 2
-        x: 389
-        y: 1535
-        width: 52
-        height: 64
+        x: 390
+        y: 1410
+        width: 50
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,10 +1074,10 @@ TextureImporter:
       name: sword_31
       rect:
         serializedVersion: 2
-        x: 448
-        y: 1536
-        width: 55
-        height: 62
+        x: 449
+        y: 1473
+        width: 53
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,10 +1095,10 @@ TextureImporter:
       name: sword_32
       rect:
         serializedVersion: 2
-        x: 526
-        y: 1535
-        width: 41
-        height: 64
+        x: 511
+        y: 1408
+        width: 64
+        height: 191
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1414,9 +1117,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 62
-        y: 1471
-        width: 48
-        height: 65
+        y: 1409
+        width: 49
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1137,10 @@ TextureImporter:
       name: sword_34
       rect:
         serializedVersion: 2
-        x: 146
-        y: 1408
-        width: 33
-        height: 65
+        x: 145
+        y: 1407
+        width: 40
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,10 +1158,10 @@ TextureImporter:
       name: sword_35
       rect:
         serializedVersion: 2
-        x: 210
-        y: 1406
-        width: 31
-        height: 66
+        x: 211
+        y: 1409
+        width: 42
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1477,9 +1180,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 333
-        y: 1472
-        width: 39
-        height: 64
+        y: 1409
+        width: 35
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1498,9 +1201,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 466
-        y: 1408
-        width: 33
-        height: 64
+        y: 1409
+        width: 43
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2086,9 +1789,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 779
-        y: 1020
+        y: 833
         width: 42
-        height: 66
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2820,10 +2523,10 @@ TextureImporter:
       name: sword_100
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1986
-        width: 30
-        height: 63
+        x: 6
+        y: 1342
+        width: 55
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2841,10 +2544,10 @@ TextureImporter:
       name: sword_101
       rect:
         serializedVersion: 2
-        x: 82
-        y: 1984
-        width: 29
-        height: 66
+        x: 138
+        y: 1345
+        width: 54
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2862,10 +2565,10 @@ TextureImporter:
       name: sword_102
       rect:
         serializedVersion: 2
-        x: 146
-        y: 1985
-        width: 30
-        height: 65
+        x: 204
+        y: 1345
+        width: 52
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2883,10 +2586,10 @@ TextureImporter:
       name: sword_103
       rect:
         serializedVersion: 2
-        x: 207
-        y: 1986
-        width: 33
-        height: 61
+        x: 265
+        y: 1345
+        width: 53
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2904,8 +2607,8 @@ TextureImporter:
       name: sword_104
       rect:
         serializedVersion: 2
-        x: 264
-        y: 1986
+        x: 397
+        y: 1345
         width: 45
         height: 62
       alignment: 0
@@ -2925,10 +2628,10 @@ TextureImporter:
       name: sword_105
       rect:
         serializedVersion: 2
-        x: 330
-        y: 1986
-        width: 43
-        height: 60
+        x: 462
+        y: 1344
+        width: 51
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2938,6 +2641,27 @@ TextureImporter:
       bones: []
       spriteID: 187aee9ab969cb570800000000000000
       internalID: 8483821393374259073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_106
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1344
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35605dd4fb475d8c0800000000000000
+      internalID: -3975142731091212717
       vertices: []
       indices: 
       edges: []

@@ -2,28 +2,36 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Enemy : MonoBehaviour
 {
+    
+
     public int maxHealth = 100;
-    int currentHealth;
+    public int currentHealth;
 
     public float speed = 1f;
     public Transform leftPoint, rightPoint;
-    Vector3 localScale;
-    bool movingRight = false;
-    Rigidbody2D rb; 
+    public Vector3 localScale;
+    public bool movingRight = false;
+    public Rigidbody2D rb;
+
+  
 
     // Start is called before the first frame update
-    void Start()
+    public virtual void Start()
     {
         currentHealth = maxHealth;
+        
 
         localScale = transform.localScale;
         rb = GetComponent<Rigidbody2D>();
+
+
     }
 
     //Update is called once per frame
-    private void Update()
+    public virtual void Update()
     {
         if (transform.position.x > rightPoint.position.x)
             movingRight = false;
@@ -36,14 +44,14 @@ public class Enemy : MonoBehaviour
             moveLeft(); 
     }
 
-    void moveRight()
+    public virtual void moveRight()
     {
         movingRight = true;
         localScale.x = 1;
         transform.localScale = localScale;
         rb.velocity = new Vector2(localScale.x * speed, rb.velocity.y);
     }
-    void moveLeft()
+    public virtual void moveLeft()
     {
         movingRight = false;
         localScale.x = -1;
@@ -51,19 +59,22 @@ public class Enemy : MonoBehaviour
         rb.velocity = new Vector2(localScale.x * speed, rb.velocity.y);
     }
 
-    public void TakeDamage(int damage)
+    public virtual void TakeDamage(int damage)
     {
-        currentHealth -= damage; 
-
+        currentHealth -= damage;
+        
         //play an animation to be done later
 
         if (currentHealth <= 0)
-        {
+        {   //add 1 point for each enemy killed
+            UIManager.singleton.killCount++;
             Die();
+            //update it to the game so the new score shows
+            UIManager.singleton.UpdateKillCounterUI();
         }
     }
 
-    void Die()
+    public virtual void Die()
     {
         //play animation to be done later
         //animator.SetBool("IsDead", true); 
@@ -74,5 +85,7 @@ public class Enemy : MonoBehaviour
         this.enabled = false;
         
     }
+
+    
 
 }
