@@ -6,12 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class Key : MonoBehaviour
 {
+
     public Text winText;
     [SerializeField]
     private GameObject oldDoor, newDoor;
     public float doorX, doorY;
 
     Collider2D doorCollide;
+
 
     // Update is called once per frame
     void Start()
@@ -26,19 +28,22 @@ public class Key : MonoBehaviour
     {
         //Debug.Log("key collided");
         if ((hitInfo.name == "Red Character") || (hitInfo.name == "Purple Character"))
-        {   
-
-            //Debug.Log("key should be gone");
+        {
             this.GetComponent<Renderer>().enabled = false;
-
+            gameObject.SetActive(false);
             //when the player collects the key, add 10 points to the score
-            UIManager.singleton.killCount =+ 10;
+            UIManager.singleton.killCount += 10;
             UIManager.singleton.UpdateKillCounterUI();
 
             winText.text = "You've Unlocked the Door!";
             Invoke("openDoor", 2);
+  
+
+            //Debug.Log("key should be gone");
+
         }
-        
+
+       
     }
 
     public void openDoor()

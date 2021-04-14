@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5437440163792247648}
   - component: {fileID: 5437440163792247678}
   - component: {fileID: 5437440163792247649}
+  - component: {fileID: 3079060395713778646}
   m_Layer: 8
   m_Name: key
   m_TagString: Untagged
@@ -98,9 +99,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   winText: {fileID: 0}
   oldDoor: {fileID: 0}
-  newDoor: {fileID: 2021428767446075217, guid: cb200aa14302ec5408a90f9be1eaee59, type: 3}
-  doorX: 30
-  doorY: 1.4
+  newDoor: {fileID: 0}
+  doorX: 86
+  doorY: -16.4
 --- !u!61 &5437440163792247678
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -148,3 +149,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &3079060395713778646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5437440163792247653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f026e1a2dbc8c4aa7829cf4751fda7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  winText: {fileID: 0}
+  oldDoor: {fileID: 0}
+  newDoor: {fileID: 0}
+  doorX: 30
+  doorY: 1.4

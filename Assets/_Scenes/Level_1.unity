@@ -22279,6 +22279,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8813553439224471298, guid: 71e126c91f164154fa2369509cc65fdf,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8813553439224471299, guid: 71e126c91f164154fa2369509cc65fdf,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8813553439224471306, guid: 71e126c91f164154fa2369509cc65fdf,
         type: 3}
       propertyPath: projectile
@@ -22297,7 +22307,7 @@ PrefabInstance:
     - target: {fileID: 2455988067318009689, guid: f6fffbfa98afeda4b9bf66296a5a7f32,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 219.99994
+      value: 199.99997
       objectReference: {fileID: 0}
     - target: {fileID: 2455988068127582289, guid: f6fffbfa98afeda4b9bf66296a5a7f32,
         type: 3}
@@ -22417,7 +22427,12 @@ PrefabInstance:
     - target: {fileID: 2455988069263130459, guid: f6fffbfa98afeda4b9bf66296a5a7f32,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 49.99994
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2455988069263130459, guid: f6fffbfa98afeda4b9bf66296a5a7f32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6fffbfa98afeda4b9bf66296a5a7f32, type: 3}
@@ -22497,6 +22512,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3079060395713778646, guid: 36e401b9c4ec10347822405df3409733,
+        type: 3}
+      propertyPath: newDoor
+      value: 
+      objectReference: {fileID: 2140570559}
+    - target: {fileID: 3079060395713778646, guid: 36e401b9c4ec10347822405df3409733,
+        type: 3}
+      propertyPath: oldDoor
+      value: 
+      objectReference: {fileID: 1172597407958254}
+    - target: {fileID: 3079060395713778646, guid: 36e401b9c4ec10347822405df3409733,
+        type: 3}
+      propertyPath: winText
+      value: 
+      objectReference: {fileID: 132969999}
     - target: {fileID: 5437440163792247648, guid: 36e401b9c4ec10347822405df3409733,
         type: 3}
       propertyPath: newDoor
@@ -22572,7 +22602,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: key
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents: [{fileID: 5437440163792247648, guid: 36e401b9c4ec10347822405df3409733,
+        type: 3}]
   m_SourcePrefab: {fileID: 100100000, guid: 36e401b9c4ec10347822405df3409733, type: 3}
 --- !u!1001 &6106574183538914019
 PrefabInstance:
